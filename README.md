@@ -1,8 +1,8 @@
 ## 👋 Hi, I’m @josh-tk
-- 👀 I’m interested in wieghtlifting, badminton, cooking and house music
-- 🌱 I’m currently learning Django
+- 👀 I’m interested in wieghtlifting, badminton, cooking and [house music](https://www.mixcloud.com/InfluencerCulture)
+- 🌱 I’m currently learning how to DJ and getting a perfect sear on Steak
 - 🎧 Currently listening to Because of Art 
-- ⚡ Fun fact: I met Vint Cerf when I was in high school!
+- ⚡ Fun fact: I met Vint Cerf when I was in high school
 
 
 ```bash
